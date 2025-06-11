@@ -11,54 +11,50 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in in Civil, Environmental and Construction Engineering, University of Hawaii at Manoa, USA | 2024 - 2025
+* B.S. in Civil, Environmental and Construction Engineering, Azad University of Tehran, IRAN | 2018 - 2023
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+*	At Kandovanpars, supported the design team, oversaw workshop operations to minimize execution issues, and performed quantity surveying and cost estimation for accurate project planning. Tehran, Iran | 2021 – 2024
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Supervised the full construction cycle of a 7-floor residential building, ensuring structural quality and on-time delivery.Tehran, Iran | 2021 – 2024
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*	Directed construction activities for the Pasargad Store project ensuring adherence to quality standards and project timelines. Tehran, Iran | 2021 – 2024
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*	Software and programming: AutoCAD, Civil 3D, ETABS and SAFE, Office, R, Python, MATLAB
+*	Construction Project Leadership, Managing construction teams
+*	Quantity Surveying and Cost Control Management 
+*	GIS and Spatial Tools: QGIS, ArcGIS
+*	Econometric Modeling 
+*	Transportation Demand Modeling and Forecasting
 
-Publications
+
+EXTRACURRICULAR
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*	Certified Auto Expert; Licensed Professional in Vehicle Inspection
+*	Advanced Whitewater Kayaker
+*	High School Swimming Team
+
+RELEVANT COURSES
+======
+*	Quantity Surveying and Cost Estimation (B.S.)
+*	Construction Management (B.S.)
+*	Reinforced Concrete and Steel Structure Design
+*	CEE 646 : Advanced Transportation Modeling and Statistics (M.S.)
+*	ECE 645 : Machine learning (M.S.)
+*	ECON 425 : Econometrics (M.S.)
+*	PLAN 628 : Urban Environmental Problems (M.S.)
+*	PLAN 473 : GIS for Community Planning (M.S.)
+
   
-Talks
+EXPERIENCE
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+Graduate Research Assistant:
+University of Hawaii at Manoa, Hawaii, USA | 2024 – present
+Performed econometric analysis of daily time allocation among exercise, internet use, and travel using the American Time Use Survey (ATUS).
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
