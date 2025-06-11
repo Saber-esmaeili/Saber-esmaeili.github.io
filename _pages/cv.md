@@ -32,13 +32,14 @@ Skills
 *	Transportation Demand Modeling and Forecasting
 
 
-EXTRACURRICULAR
+Extracurricular
 ======
 *	Certified Auto Expert; Licensed Professional in Vehicle Inspection
 *	Advanced Whitewater Kayaker
 *	High School Swimming Team
+  
 
-RELEVANT COURSES
+Relevant Courses
 ======
 *	Quantity Surveying and Cost Estimation (B.S.)
 *	Construction Management (B.S.)
@@ -50,7 +51,7 @@ RELEVANT COURSES
 *	PLAN 473 : GIS for Community Planning (M.S.)
 
   
-EXPERIENCE
+Eeperience
 ======
 Graduate Research Assistant:
 University of Hawaii at Manoa, Hawaii, USA | 2024 – present
