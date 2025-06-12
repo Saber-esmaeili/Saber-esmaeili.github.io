@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilephoto.jpg"
+  avatar           : "images/profilephoto.jpg"
   name             : "Saber Esmaeili Ghayoumabadi"
   pronouns         : # example: "she/her"  
   bio              : "Master’s Student in Civil, Environmental and Construction Engineering, Project Management, Quantity Surveying, Data Analysis and Econometrics"
