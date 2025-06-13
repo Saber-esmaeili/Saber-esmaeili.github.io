@@ -55,6 +55,7 @@ Eeperience
 ======
 Graduate Research Assistant:
 University of Hawaii at Manoa, Hawaii, USA | 2024 – present
+
 Performed econometric analysis of daily time allocation among exercise, internet use, and travel using the American Time Use Survey (ATUS).
 
   
